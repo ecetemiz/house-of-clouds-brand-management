@@ -1,0 +1,33 @@
+HOUSE OF CLOUDS — MARKA YÖNETİMİ DERSİ / GITHUB'A YÜKLEME
+
+Bu paket yalnızca gönderdiğiniz 13 slaytlık HOUSE-OF-CLOUDS (4) (1).pptx dosyasına dayanır.
+Önceki grup projesi / Pazarlama sunumu bu pakete DAHİL DEĞİLDİR.
+
+1) ZIP dosyasını bilgisayarda Tümünü Ayıkla ile aç.
+2) https://github.com/new sayfasına gir.
+3) Repository name: house-of-clouds-brand-management
+4) Visibility: Public
+5) Add a README file: Kapalı (hazır README.md var)
+6) Create repository butonuna bas.
+7) 'uploading an existing file' veya Add file > Upload files yoluyla ZIP'in İÇİNDEKİ TÜM dosya ve klasörleri yükle (ZIP dosyasını değil).
+8) Commit changes'e bas.
+9) Hakkında > dişli simgesi üzerinden Description ve Topics alanlarını gir.
+
+DESCRIPTION (About — kopyala):
+Individual brand management case study exploring a fictional quiet-luxury fashion house through brand identity, positioning, resonance, IMC and brand extensions.
+
+TOPICS (her birini ayrı ayrı yaz ve Enter'a bas):
+brand-management
+brand-identity
+brand-positioning
+quiet-luxury
+marketing-strategy
+brand-resonance
+integrated-marketing-communications
+fashion-branding
+
+NOTLAR
+- Bu bir Marka Yönetimi dersi projesidir, yazılım/dashbord veya çalışan ticari marka değildir.
+- Sunumun kamuya açık kopyasından öğrencilik numarası gizlilik için çıkarıldı.
+- PowerPoint ile PDF, sunumun aynı 13 slaytını içerir.
+- Github Pages bu projede gerekli değildir; PDF ve görsel önizlemeleri doğrudan depoda görünür.
